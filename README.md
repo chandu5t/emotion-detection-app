@@ -10,4 +10,4 @@ This project implements an Emotion Detection Application using the IBM Watson NL
 - Static code analysis using pylint
 
 ## Author
-chandu5t
+Chandrakant Thakare
